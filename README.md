@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I'm a computer science major at the University of Pittsburgh. My primary interests are software development, machine learning, and data science. I'm always trying to learn new things in tech by building interesting projects on GitHub!
 
-- 💻 Currently working on: [NBA Game Predictor](https://github.com/AnnambhotlaK/nba_game_predictor_v1)
+- 💻 Currently working on: [Bitboard Chess Engine in C](https://github.com/AnnambhotlaK/chess-engine)
 - 🌱 Learning: ML, Data Science
 - 📫 How to reach me: [k4annam@gmail.com](k4annam@gmail.com)
 
